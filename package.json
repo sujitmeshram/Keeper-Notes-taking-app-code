@@ -12,15 +12,16 @@
     "react-scripts": "3.2.0",
     "uuid": "3.3.3"
   },
-  "homepage": "http://sujitmeshram.github.io/Keeper-App-A-google-keep-app-clone",
+  "homepage": "http://sujitmeshram.github.io/Keeper-app",
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "typescript": "3.3.3"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },

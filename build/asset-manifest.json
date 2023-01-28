@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/Keeper-App-A-google-keep-app-clone/static/js/main.684e802a.chunk.js",
-    "main.js.map": "/Keeper-App-A-google-keep-app-clone/static/js/main.684e802a.chunk.js.map",
-    "runtime-main.js": "/Keeper-App-A-google-keep-app-clone/static/js/runtime-main.ffe8c6f2.js",
-    "runtime-main.js.map": "/Keeper-App-A-google-keep-app-clone/static/js/runtime-main.ffe8c6f2.js.map",
-    "static/js/2.dc8daa36.chunk.js": "/Keeper-App-A-google-keep-app-clone/static/js/2.dc8daa36.chunk.js",
-    "static/js/2.dc8daa36.chunk.js.map": "/Keeper-App-A-google-keep-app-clone/static/js/2.dc8daa36.chunk.js.map",
-    "index.html": "/Keeper-App-A-google-keep-app-clone/index.html",
-    "precache-manifest.7a954dbf62c4ae8f5c99c5b666bfd10d.js": "/Keeper-App-A-google-keep-app-clone/precache-manifest.7a954dbf62c4ae8f5c99c5b666bfd10d.js",
-    "service-worker.js": "/Keeper-App-A-google-keep-app-clone/service-worker.js"
+    "main.js": "/Keeper-app/static/js/main.684e802a.chunk.js",
+    "main.js.map": "/Keeper-app/static/js/main.684e802a.chunk.js.map",
+    "runtime-main.js": "/Keeper-app/static/js/runtime-main.f8b8b1e7.js",
+    "runtime-main.js.map": "/Keeper-app/static/js/runtime-main.f8b8b1e7.js.map",
+    "static/js/2.dc8daa36.chunk.js": "/Keeper-app/static/js/2.dc8daa36.chunk.js",
+    "static/js/2.dc8daa36.chunk.js.map": "/Keeper-app/static/js/2.dc8daa36.chunk.js.map",
+    "index.html": "/Keeper-app/index.html",
+    "precache-manifest.df221d18d0ef9fb6399e8d2b216e8496.js": "/Keeper-app/precache-manifest.df221d18d0ef9fb6399e8d2b216e8496.js",
+    "service-worker.js": "/Keeper-app/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.ffe8c6f2.js",
+    "static/js/runtime-main.f8b8b1e7.js",
     "static/js/2.dc8daa36.chunk.js",
     "static/js/main.684e802a.chunk.js"
   ]
