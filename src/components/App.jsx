@@ -5,21 +5,21 @@ import Note from "./Note";
 import CreateArea from "./CreateArea";
 
 function App() {
-  // for notes array
+  // for storing notes array
   const [notes, setNotes] = useState([]);
 
-  // for adding the new note
+  // for adding new note
   function addNote(newNote) {
+    // adding new note in array
     setNotes((prevNotes) => {
-      // adding new note in array
       return [...prevNotes, newNote];
     });
   }
 
-  // for deleting note
+  // for deleting the note
   function deleteNote(id) {
     setNotes((prevNotes) => {
-      // return all except index matches with id
+      // return all except the id mateches with index
       return prevNotes.filter((noteItem, index) => {
         return index !== id;
       });

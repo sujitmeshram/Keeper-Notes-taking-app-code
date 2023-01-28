@@ -4,19 +4,19 @@ import Fab from "@material-ui/core/Fab";
 import Zoom from "@material-ui/core/Zoom";
 
 function CreateArea(props) {
-  // for expanding feature
+  // state for expanded or not
   const [isExpanded, setExpanded] = useState(false);
 
-  // note array
+  // note contain title and content
   const [note, setNote] = useState({
     title: "",
     content: "",
   });
 
+  // for setting note value
   function handleChange(event) {
     const { name, value } = event.target;
 
-    // for setting note
     setNote((prevNote) => {
       return {
         ...prevNote,
@@ -25,20 +25,21 @@ function CreateArea(props) {
     });
   }
 
-  // for submitting note
+  // for submitting a note
   function submitNote(event) {
-    // after submitting note, set title and content value as blank
     props.onAdd(note);
+
+    // make title and content blank after adding notes
     setNote({
       title: "",
       content: "",
     });
 
-    // for preventing the refresh
+    // preventdefault for to prevent refresh
     event.preventDefault();
   }
 
-  // for expanding
+  // expand
   function expand() {
     setExpanded(true);
   }

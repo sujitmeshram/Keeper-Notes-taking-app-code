@@ -1,8 +1,8 @@
 import React from "react";
 import DeleteIcon from "@material-ui/icons/Delete";
 
+// for delete
 function Note(props) {
-  // for handling delete click
   function handleClick() {
     props.onDelete(props.id);
   }
