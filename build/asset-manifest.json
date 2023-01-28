@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Keeper-app/static/js/main.684e802a.chunk.js",
-    "main.js.map": "/Keeper-app/static/js/main.684e802a.chunk.js.map",
-    "runtime-main.js": "/Keeper-app/static/js/runtime-main.f8b8b1e7.js",
-    "runtime-main.js.map": "/Keeper-app/static/js/runtime-main.f8b8b1e7.js.map",
-    "static/js/2.dc8daa36.chunk.js": "/Keeper-app/static/js/2.dc8daa36.chunk.js",
-    "static/js/2.dc8daa36.chunk.js.map": "/Keeper-app/static/js/2.dc8daa36.chunk.js.map",
-    "index.html": "/Keeper-app/index.html",
-    "precache-manifest.df221d18d0ef9fb6399e8d2b216e8496.js": "/Keeper-app/precache-manifest.df221d18d0ef9fb6399e8d2b216e8496.js",
-    "service-worker.js": "/Keeper-app/service-worker.js"
+    "main.js": "/Keeper-Notes-taking-app/static/js/main.c685bc7c.chunk.js",
+    "main.js.map": "/Keeper-Notes-taking-app/static/js/main.c685bc7c.chunk.js.map",
+    "runtime-main.js": "/Keeper-Notes-taking-app/static/js/runtime-main.ae37353b.js",
+    "runtime-main.js.map": "/Keeper-Notes-taking-app/static/js/runtime-main.ae37353b.js.map",
+    "static/js/2.dc8daa36.chunk.js": "/Keeper-Notes-taking-app/static/js/2.dc8daa36.chunk.js",
+    "static/js/2.dc8daa36.chunk.js.map": "/Keeper-Notes-taking-app/static/js/2.dc8daa36.chunk.js.map",
+    "index.html": "/Keeper-Notes-taking-app/index.html",
+    "precache-manifest.2247b01edc1815812fb08d1bc020d49d.js": "/Keeper-Notes-taking-app/precache-manifest.2247b01edc1815812fb08d1bc020d49d.js",
+    "service-worker.js": "/Keeper-Notes-taking-app/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8b8b1e7.js",
+    "static/js/runtime-main.ae37353b.js",
     "static/js/2.dc8daa36.chunk.js",
-    "static/js/main.684e802a.chunk.js"
+    "static/js/main.c685bc7c.chunk.js"
   ]
 }

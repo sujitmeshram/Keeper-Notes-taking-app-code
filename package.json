@@ -1,4 +1,5 @@
 {
+  "homepage": "http://sujitmeshram.github.io/Keeper-Notes-taking-app",
   "name": "using-pre-built-react-components-completed",
   "version": "1.0.0",
   "description": "",
@@ -12,7 +13,6 @@
     "react-scripts": "3.2.0",
     "uuid": "3.3.3"
   },
-  "homepage": "http://sujitmeshram.github.io/Keeper-app",
   "devDependencies": {
     "gh-pages": "^5.0.0",
     "typescript": "3.3.3"
