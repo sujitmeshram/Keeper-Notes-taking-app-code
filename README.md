@@ -1,9 +1,11 @@
 # Keeper-A-Google-Keep-App-Clone
 
 > A Google Keep App Clone in which users can add and delete notes 
+Tech Used : React.js, Material UI, HTML, CSS, Javascript
 
 
 <b>Live at :<b> https://sujitmeshram.github.io/Keeper-Notes-taking-app/
+
 
 
 ## Step 1. Clone the project
