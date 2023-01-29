@@ -14,7 +14,7 @@ Tech Used : React.js, Material UI, HTML, CSS, Javascript!
 <br>
  
 Screenshot:
-[Screenshot (351)](https://user-images.githubusercontent.com/71513291/215313698-660a1bec-ec53-4150-b9d7-979e0f907ce2.png)
+<img src="https://user-images.githubusercontent.com/71513291/215313698-660a1bec-ec53-4150-b9d7-979e0f907ce2.png"/>
  
   
   
